@@ -21,6 +21,8 @@ A few changes have been made:
 
 	- Perform the blurring and assign the original image values to the blurred pixels where the objects are present.
 
+A Gaussian filter is applied in order to blur the image.
+
 ## Requirements
 
 Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in requirements.txt.
