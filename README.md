@@ -13,10 +13,12 @@ to know more, you can check the original [paper](https://arxiv.org/abs/1703.0687
 ## Mask R-CNN implementation
 
 This project uses the Mask R-CNN implementation from [Matterport, Inc](https://matterport.com) in Tensorflow and
-Keras, you can check it and please leave then a star in their [repository](https://github.com/matterport/Mask_RCNN).
+Keras, you can check it and please leave them a star in their [repository](https://github.com/matterport/Mask_RCNN).
 
 A few changes have been made:
+
 	- A new function to take the mask and save in a new matrix the pixels where the objects are present.
+
 	- Perform the blurring and assign the original image values to the blurred pixels where the objects are present.
 
 ## Requirements
