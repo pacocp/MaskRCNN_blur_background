@@ -1,0 +1,10 @@
+License for Non-Commercial Use
+
+By downloading the Moments in Time Dataset (i.e., datasets from the Moments site, which may include videos or images), provided to you directly or from, or through the Moments website (collectively the "Service") you signify your agreement to these terms and conditions:
+
+1. You will use the Datasets only for non-commercial research and educational purposes. 
+2. You will NOT distribute the Datasets or any parts thereof. 
+3. Massachusetts Institute of Technology and the International Business Machines Corporation make no representations or warranties regarding the datasets, including but not limited to warranties of non-infringement or fitness for a particular purpose.
+4. You accept full responsibility for your use of the datasets and shall defend and indemnify Massachusetts Institute of Technology and International Business Machines Corporation, including its employees, officers and agents, against any and all claims arising from your use of the datasets , including but not limited to your use of any copies of copyrighted videos or images that you may create from the datasets
+
+If you do not agree to any of these terms, please do not use the Service. 
